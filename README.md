@@ -35,6 +35,9 @@ Passionate about building impactful products with AI, Web3, and modern web techn
 ### Databases
 ![Database](https://skillicons.dev/icons?i=mongodb,postgresql)
 
+### Web3
+![Web3](https://skillicons.dev/icons?i=solidity)
+
 ### Programming & AI
 ![Programming](https://skillicons.dev/icons?i=python)
 
